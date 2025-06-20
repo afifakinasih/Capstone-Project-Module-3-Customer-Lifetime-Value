@@ -50,4 +50,4 @@ Proyek ini bertujuan untuk membangun model prediksi Customer Lifetime Value (CLV
 ---
 
 **Catatan:**  
-Model ini hanya valid untuk data dengan skema dan rentang fitur yang sama seperti pada proses pelatihan. Input di luar rentang/isi fitur yang telah ditentukan dapat menghasilkan prediksi yang tidak valid.
+Model ini hanya valid untuk data dengan skema dan rentang fitur pada limitasi model. Input di luar rentang/isi fitur yang telah ditentukan dapat menghasilkan prediksi yang tidak valid.
